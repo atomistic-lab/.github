@@ -1,7 +1,7 @@
-# MAICoS Development Team
+# Atomistic Lab
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maicos-devel/maicos/refs/heads/main/docs/static/logo.svg" width="300" alt="MAICoS logo">
+  <img src="https://raw.githubusercontent.com/atomistic-lab/maicos/refs/heads/main/docs/static/logo.svg" width="300" alt="MAICoS logo">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Our packages are built on [MDAnalysis](https://www.mdanalysis.org) and follow th
 
 ## Packages
 
-### [MAICoS](https://github.com/maicos-devel/maicos) — Molecular Analysis for Interfacial and Confined Systems
+### [MAICoS](https://github.com/atomistic-lab/maicos) — Molecular Analysis for Interfacial and Confined Systems
 [![PyPI](https://img.shields.io/pypi/v/maicos)](https://pypi.org/project/maicos/)
 [![Conda](https://img.shields.io/conda/vn/conda-forge/maicos)](https://anaconda.org/conda-forge/maicos)
 
@@ -26,19 +26,19 @@ pip install maicos  # or: conda install -c conda-forge maicos
 
 Docs: [maicos-analysis.org](https://maicos-analysis.org)
 
-### [Solvate](https://github.com/maicos-devel/solvate) *(in development)*
+### [Solvate](https://github.com/atomistic-lab/solvate) *(in development)*
 
 Solvation of confined geometries for MD simulation preparation.
 
-### [ScatterKit](https://github.com/maicos-devel/scatterkit) *(in development)*
+### [ScatterKit](https://github.com/atomistic-lab/scatterkit) *(in development)*
 
 SAXS and scattering analysis (structure factors, scattering intensities) from MD trajectories.
 
-### [SpectraKit](https://github.com/maicos-devel/spectrakit) *(in development)*
+### [SpectrumKit](https://github.com/atomistic-lab/spectrumkit) *(in development)*
 
 Spectral analysis tools for frequency-domain properties from MD simulations.
 
-### [MAICoSData](https://github.com/maicos-devel/maicosdata)
+### [MAICoSData](https://github.com/atomistic-lab/maicosdata)
 
 Example datasets, test files, and tutorials.
 
@@ -49,9 +49,9 @@ Questions, discussions, and feedback are welcome on our [Discord server](https:/
 ## Contributors
 
 <p align="center">
-  <a href="https://github.com/maicos-devel/maicos/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=maicos-devel/maicos" alt="MAICoS Contributors" />
+  <a href="https://github.com/atomistic-lab/maicos/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=atomistic-lab/maicos" alt="MAICoS Contributors" />
   </a>
 </p>
 
-All software is released under the [GNU General Public License v3.0](https://github.com/maicos-devel/maicos/blob/main/LICENSE).
+All software is released under the [GNU General Public License v3.0](https://github.com/atomistic-lab/maicos/blob/main/LICENSE).
